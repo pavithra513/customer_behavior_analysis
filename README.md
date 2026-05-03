@@ -1,17 +1,17 @@
 # customer_behavior_analysis
 Data analytics project showcasing customer behavior analysis using python ,sql and PowerBI
  Data Analytics Project
- The datasetOverview
+ The datase tOverview
 
    This project demonstrates an end-to-end data analytics workflow, including data loading, exploratory data analysis (EDA), data cleaning, SQL-based analysis, and dashboard visualization. The goal is to extract meaningful insights from raw data and present them in a clear, business-friendly format.
 
-  ## Datasett used in this project contains structured data suitable for analysis.
+   Dataset used in this project contains structured data suitable for analysis.
 * It includes multiple features such as numerical and categorical variables.
 * Source: (Add dataset source here if applicable)
 
----
 
-## Tools & Technologies
+
+ Tools & Technologies
 
 * **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 * **PostgreSQL** (for data storage and querying)
@@ -19,26 +19,26 @@ Data analytics project showcasing customer behavior analysis using python ,sql a
 
 ---
 
-## Project Steps
+ Project Steps
 
-### 1. Data Loading
+ 1. Data Loading
 
 * Imported the dataset into Python using Pandas.
 * Performed initial inspection to understand structure and data types.
 
-### 2. Exploratory Data Analysis (EDA)
+ 2. Exploratory Data Analysis (EDA)
 
 * Analyzed distributions, correlations, and patterns.
 * Identified trends, anomalies, and potential issues in the dataset.
 * Visualized key insights using plots and charts.
 
-### 3. Data Cleaning
+ 3. Data Cleaning
 
 * Handled missing values and duplicates.
 * Corrected data types and standardized formats.
 * Removed or treated outliers where necessary.
 
-### 4. SQL Analysis (PostgreSQL)
+ 4. SQL Analysis (PostgreSQL)
 
 * Loaded cleaned data into PostgreSQL.
 * Wrote SQL queries to:
@@ -48,7 +48,7 @@ Data analytics project showcasing customer behavior analysis using python ,sql a
   * Generate business insights
 * Optimized queries for performance where applicable.
 
-### 5. Dashboard Creation (Power BI)
+ 5. Dashboard Creation (Power BI)
 
 * Connected Power BI to PostgreSQL database.
 * Built interactive dashboards with:
@@ -59,7 +59,7 @@ Data analytics project showcasing customer behavior analysis using python ,sql a
 
 ---
 
-## Dashboards
+Dashboards
 
 * Interactive Power BI dashboard showcasing:
 
@@ -70,7 +70,7 @@ Data analytics project showcasing customer behavior analysis using python ,sql a
 
 ---
 
-## Results & Insights
+Results & Insights
 
 * Identified key patterns and trends in the dataset.
 * Provided actionable insights based on SQL and visual analysis.
@@ -79,7 +79,7 @@ Data analytics project showcasing customer behavior analysis using python ,sql a
 
 ---
 
-## How to Run
+ How to Run
 
 1. **Clone the Repository**
 
@@ -114,7 +114,7 @@ Data analytics project showcasing customer behavior analysis using python ,sql a
 
 ---
 
-## Conclusion
+ Conclusion
 
 This project highlights practical skills in data analysis, SQL querying, and data visualization. It demonstrates the ability to turn raw data into meaningful insights and present them effectively for decision-making.
 
