@@ -1,9 +1,9 @@
 # customer_behavior_analysis
 Data analytics project showcasing customer behavior analysis using python ,sql and PowerBI
  Data Analytics Project
- The datase tOverview
-
-   This project demonstrates an end-to-end data analytics workflow, including data loading, exploratory data analysis (EDA), data cleaning, SQL-based analysis, and dashboard visualization. The goal is to extract meaningful insights from raw data and present them in a clear, business-friendly format.
+ 
+ The dataset Overview
+       This project demonstrates an end-to-end data analytics workflow, including data loading, exploratory data analysis (EDA), data cleaning, SQL-based analysis, and dashboard visualization. The goal is to extract meaningful insights from raw data and present them in a clear, business-friendly format.
 
    Dataset used in this project contains structured data suitable for analysis.
 * It includes multiple features such as numerical and categorical variables.
